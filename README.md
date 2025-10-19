@@ -1,17 +1,17 @@
 Hello, world !
 I'm Alexandre, 21 years old IT Student from France.  
--Own STI2D option EE Mention Très bien  
--Own DUT Informatique  degree
--Interested by web-app developpment  
--Currently doing The modern JavaScript Course  
+-Own DUT Informatique degree
+-Own Master EISI degree
+-Interested by web-app developpment 
+-Currently searching for a job
 -My email address : alexandre.pozzi69@gmail.com
 
 
-Bonjour, je m'appelle Alexandre, j'ai 20 ans et je vis à Lyon.  
--Titulaire du baccalauréat STI2D option EE Mention Très bien  
--Actuellement diplômé de DUT Informatique  
+Bonjour, je m'appelle Alexandre, j'ai 24 ans et je vis à Lyon.  
+-Titulaire du DUT Informatique
+-Actuellement diplômé de Master EISI
 -Je suis intéressé par le développement d'applications web  
--Je suis actuellement en train d'effectuer la moderne JavaScript Course  
+-Je suis actuellement en train de rechercher un job
 -Mon adresse email : alexandre.pozzi69@gmail.com
 
 
