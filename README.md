@@ -1,4 +1,4 @@
-Hello, world !
+## Hello, world !
 I'm Alexandre, 21 years old IT Student from France.  
 -Own DUT Informatique degree
 -Own Master EISI degree
@@ -7,7 +7,8 @@ I'm Alexandre, 21 years old IT Student from France.
 -My email address : alexandre.pozzi69@gmail.com
 
 
-Bonjour, je m'appelle Alexandre, j'ai 24 ans et je vis à Lyon.  
+## Bonjour !
+Je m'appelle Alexandre, j'ai 24 ans et je vis à Lyon.  
 -Titulaire du DUT Informatique
 -Actuellement diplômé de Master EISI
 -Je suis intéressé par le développement d'applications web  
